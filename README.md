@@ -10,4 +10,12 @@
 6. There are some additional mounting points to play around a bit with feel and sound a bit more. These addiotional top mount positions include 2 points on top edge so that all the mounting points at the top are equidustant while closer-to-the-edge points on bottom edge for experimenting with spacebar sound and feel. <br />
 <br />
 <br />
-Here are screenshots and images! <br />
+Here are screenshots! <br />
+Check out images folder for more images/screenshots. <br />
+<img width="694" alt="1" src="https://github.com/HypnotisedLemon/Lemonade65/assets/95068107/ff6f0d0e-4257-481b-a92d-2c8f3d87ced3">
+<img width="735" alt="2" src="https://github.com/HypnotisedLemon/Lemonade65/assets/95068107/61d57312-4b97-49ae-8a32-20602af3ccc9">
+
+
+
+
+
